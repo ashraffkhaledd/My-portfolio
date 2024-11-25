@@ -70,16 +70,6 @@ body{
     border-bottom: 3px solid var(--main-color);
 }
 
-#menu-icon{
-    font-size: 3.6rem;
-    color: var(--main-color);
-    display: none;
-}
-
-
-/* .home-img img{
-    width:200px;
-} */
 
 section{
     min-height: 100vh;
@@ -140,7 +130,7 @@ span{
 .home-img img:hover{
     box-shadow: 0 0 25px var(--main-color),
                 0 0 50px var(--main-color),
-                0 0 100px var(--main-color),
+                0 0 100px var(--main-color)
 }
 
 .home-content p{
